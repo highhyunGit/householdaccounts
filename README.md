@@ -7,4 +7,4 @@
 · CRUD 구현<br/>
 · 조건 검색(INDEX)을 통해 사용자가 원하는 검색 기능 구현<br/>
 <h2>GIF</h2>
-<img src="https://user-images.githubusercontent.com/89969398/139619706-c872e9c0-622e-418c-9364-f26e2728666f.gif">
+<img src="https://user-images.githubusercontent.com/89969398/139620084-3d3cce78-b724-481b-aef6-a62953319b59.gif">
